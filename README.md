@@ -1,2 +1,2 @@
-# git_215-setup
+# git215_setup
 ## Author: Timothy Chang
